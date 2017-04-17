@@ -3,70 +3,8 @@
     <title>NIJIBOX Engineer Blog</title>
     <link>http://tech.nijibox.jp/</link>
     <subtitle>俺が魂を込めれば</subtitle>
-    <updated>2017-04-10T00:00:00Z+0900</updated>
+    <updated>2017-03-31T00:00:00Z+0900</updated>
               <entry>
-            <title>株式会社HIT様と合同勉強会を実施しました</title>
-            <link>http://tech.nijibox.jp/seminar_with_hit</link>
-            <id>http://tech.nijibox.jp/seminar_with_hit</id>
-            <description><![CDATA[
-先月の3/27に、[株式会社ヒューマン インタラクティブ テクノロジー](http://www.hit-inc.jp/)様と、「モバイル」をテーマとした合同勉強会を実施しました。
-
-Monacaパートナー勉強会にて、弊社下沢のLTをきっかけに「じゃあ合同勉強会でもどうでしょう」というきっかけで開催することとなりました。
-当日は、両社から計5件の発表がありました。
-
-![後方で撮ってみた様子](blogs/20170410-seminar_with_hit/session-0.jpg)
-
-## 発表
-
-
-### 1. HIT様「コピペをもっと使いやすく〜Yomanでよく使うコードをテンプレート化する〜」
-
-Yomanを用いて、使いまわしがちなコードをgeneratorベースで管理する話。
-メンテナンスしやすい部分に切り出していくということは、自分も改めて感じました。
-
-
-### 2. HIT様「Vue2.0 & OnsenUI」
-
-Vue.jsと、それとOnsenUIを組み合わせる話について。
-改めて、OnsenUIのサイトを見るといろいろなJSフレームワークと組み合わせに行けるのだなと勉強になります。
-
-
-### 3. ニジボックス「Monacaのビルド運用を楽にした話」
-
-MonacaアプリケーションのビルドをJenkinsベースでのGitプッシュ駆動で行っていく話。
-LocalKitなどを駆使して、「可能な限り人の手を介さない」ビルド+デバッグまでの流れを解説してもらいました。
-
-![その1](blogs/20170410-seminar_with_hit/session-1.jpg)
-
-### 4. ニジボックス「Monaca x Cordova plugin」
-
-Monacaの基本プラグインの外に機能を求めたときに巻き起こった事例。
-型にはまっている時の有用さと、そこかははずれようとするときにどうしても起きてしまう難しさについてのトークでした。
-
-![その2](blogs/20170410-seminar_with_hit/session-2.jpg)
-
-### 5. ニジボックス「ネイティブエンジニアがMonacaを使ってみた」
-
-ネイティブアプリ畑のエンジニアから見たMonacaの使用感について。
-「できること」「できない(やりにくい)こと」を交えつつ、どの領域に向いているかなどの話をしてもらいました。
-
-![その3](blogs/20170410-seminar_with_hit/session-3.jpg)
-
-
-
-## まとめ
-
-モバイルをテーマのベースにした勉強会でしたが、やはり普段の事業/業務が違ってくれば内容も変わるものだなと言うのが率直な感想です。
-特に今までにはあまり接点がない方からの話はいつも刺激になります。
-
-終了後の懇親会も行われましたが、それぞれのテーブルで一味違ったテーマに花を咲かすことができました。
-
-ニジボックスとしても、今後も勉強会などの社外交流を広げていきたいと思います。
-]]></description>
-            <published>2017-04-10T00:00:00Z+0900</published>
-          </entry>
-
-          <entry>
             <title>エンジニア向けの福利厚生の取り組みを開始しました && 開発室室長交替のお知らせ</title>
             <link>http://tech.nijibox.jp/techperk</link>
             <id>http://tech.nijibox.jp/techperk</id>
